@@ -17,8 +17,8 @@ def speak_to_grandma (speaks)
     puts "HUH?! SPEAK UP, SONNY"
   elsif speaks == speaks.upcase
     puts "NO, NOT SINCE 1938!"
-  else speaks == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+  #else speaks == "I LOVE YOU GRANDMA!"
+   # puts "I LOVE YOU TOO PUMPKIN!"
   end#ladder
   
 end #grandma
