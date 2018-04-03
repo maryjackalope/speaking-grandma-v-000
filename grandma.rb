@@ -15,8 +15,10 @@
 def speak_to_grandma (speaks)
   if speaks != speaks.upcase
     puts "HUH?! SPEAK UP, SONNY"
-  elsif
+  elsif speaks == speaks.upcase
+    puts "NO, NOT SINCE 1938!"
   else phrase == "I LOVE YOU GRANDMA!"
+    puts 
   end#ladder
   
 end #grandma
